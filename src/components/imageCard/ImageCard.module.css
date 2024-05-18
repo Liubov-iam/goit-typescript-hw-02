@@ -1,5 +1,4 @@
-.item-img {
-    width: 400px;
-    height: 400px;
-    cursor: pointer;
+.card img {
+    width: 360px;
+    height: 240px;
 }
